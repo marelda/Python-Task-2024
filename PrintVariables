@@ -1,4 +1,0 @@
-fruit1 = input("Name a fruit")
-fruit2 = input("Name a fruit")
-fruit3 = input("Name a fruit")
-print([fruit1], [fruit2], [fruit3])
