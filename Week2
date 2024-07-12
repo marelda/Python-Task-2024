@@ -1,0 +1,28 @@
+likes= "I like Apples"
+print(likes)
+likes= "I like Apples".upper()
+print(likes)
+length=len("I like Apples")
+print(length)
+print(likes[0:6])
+print(7**2)
+print("10"*3)
+print(64//9)
+print(33!=31)
+print(92<=92)      
+print(True and True)
+print(False or True)
+a=45
+a+=40
+print(a)
+b=20
+b*=5
+print(b)
+shopping=["Milk","Bread","Eggs","Jam", "Cookies"]
+print(shopping)
+shopping.append("Nutella")
+print(shopping)
+shopping.remove("Jam")
+print(shopping)
+print(shopping[2])
+print(len(shopping))
